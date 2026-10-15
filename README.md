@@ -1,10 +1,13 @@
 # 📦 BAPENTA 3D — Dual Mode 2D/3D Warehouse Control Center & Multiplayer Digital Twin
 
+[![Live Demo GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github)](https://lanaaayeraa.github.io/bapenta-3d/)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLanaaAyeraa%2Fbapenta-3d)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL-black.svg)
 ![Supabase](https://img.shields.io/badge/Supabase-Realtime%20%26%20Sync-green.svg)
 ![shadcn/ui](https://img.shields.io/badge/UI-shadcn%2Fui-slate.svg)
+
+> **🌐 Live Demo Langsung Aktif:** [**https://lanaaayeraa.github.io/bapenta-3d/**](https://lanaaayeraa.github.io/bapenta-3d/)
 
 > Sistem Manajemen & Verifikasi Paket Santri Modern Berbasis **Dual Mode**: **Standard 2D Web Dashboard** & **Interactive 3D Warehouse Digital Twin** dengan fitur **Multiplayer Live Presence**, **Meja Komputer Operator 3 Workstations**, dan **Sinkronisasi Otomatis Supabase Cloud**.
 
